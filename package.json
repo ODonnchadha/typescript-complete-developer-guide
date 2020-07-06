@@ -1,0 +1,23 @@
+{
+  "name": "typescript-complete-developer-guide",
+  "version": "1.0.0",
+  "description": "Culled from a class entitled \"Typescript The Complete Developer's Guide.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ODonnchadha/typescript-complete-developer-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ODonnchadha/typescript-complete-developer-guide/issues"
+  },
+  "homepage": "https://github.com/ODonnchadha/typescript-complete-developer-guide#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
